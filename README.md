@@ -8,6 +8,6 @@ React Navigation:
 npm install --save react-navigation or yarn add react-navigation
 ``` 
 ```
-React Navigation:
+Native Base:
 npm install --save native-base or yarn add native-base
 ``` 
